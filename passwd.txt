@@ -1,12 +1,12 @@
 
-°üÃû£ºcom.team.mahjonggame
+com.team.mahjonggame
 alias: mahjonggame
-ÃÜÂë£º124#234dfecadf
-first and lastName: game
-organizational unit: game
-Organization: game
-city or Locality: chengdu
-state or Province: sichuan
+zaq123456
+first and lastName: lv
+organizational unit: lv
+Organization: lv
+city or Locality: lv
+state or Province: lv
 Country code: 86
 
 

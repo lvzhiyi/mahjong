@@ -1,0 +1,13 @@
+Base path: /Applications/Unity/Hub/Editor/2018.2.21f1/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=3342 outsize=1292 ok=1
+Cmd: preprocess
+  insize=2841 outsize=1003 ok=1
+Cmd: preprocess
+  insize=2076 outsize=553 ok=1
+Cmd: preprocess
+  insize=1271 outsize=307 ok=1
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
